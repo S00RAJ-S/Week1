@@ -82,3 +82,65 @@ a{
     height: 56%;
     width: 18%;
 }
+
+.topbanner{
+    width: 100%;
+    height: 10%;
+    position: relative;
+}
+
+.topbanner img{
+    width: 100%;
+    height: 380px;
+}
+
+.topbanner div{
+    width: 50%;
+    padding:2% 0 0 3%;
+    position: absolute;
+    color: white;
+}
+.topbanner h1{
+    font-weight: 900;
+    font-size: 60px;
+    padding-bottom: 5%;
+}
+
+.topbanner h4{
+    font-weight: 600;
+    font-size: large;
+    color: #c3c1c0;
+    padding-bottom: 4%;
+}
+
+.top-btn1{
+    height: 50px;
+    background-color: #1144e4;
+    padding: 3%;
+    margin-right: 3%;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;    
+}
+
+.top-btn2{
+    height: 50px;
+    background-color: transparent;
+    padding: 2% 7% 2% 2%;
+    margin-right: 3%;
+    border: 1px solid white;
+    border-radius: 50px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;    
+}
+
+.topbanner div img{
+    position: absolute;
+    width: 3.3%;
+    height: 6.5%;
+    margin-left: -8%;
+    padding:2.7% 0 0 0;
+}
